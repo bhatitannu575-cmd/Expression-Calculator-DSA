@@ -1,0 +1,10 @@
+=====================================
+       EXPRESSION CALCULATOR
+       DSA - STACK PROJECT
+=====================================
+Operators: +  -  *  /  %
+Use parentheses when required.
+
+Enter expression: 
+Postfix Expression: 10 5 + 2 * 
+Result: 30
